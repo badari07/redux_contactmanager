@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://badari07.github.io/redux_contactmanager",
+  "homepage":"https://badari07.github.io/contactmanager_redux",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
